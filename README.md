@@ -56,3 +56,11 @@ This project demonstrates the use of Python and data analytics techniques to exp
 
 ## Author
 BCA – Data Analytics Student
+
+## Dataset Source
+
+Dataset: Individual Household Electric Power Consumption
+
+Source: UCI Machine Learning Repository
+
+Link: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
